@@ -50,6 +50,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       margin=10 
       width=80 
       src="https://github.com/keylopes"
+      GitHub</a>&nbsp;|&nbsp;
     
 </p>
 <br/><br/>
